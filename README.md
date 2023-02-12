@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @zhangxiaoshuotttt
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me zs961203@qq.com
+- 👋 Hi, I’m @Zhang Shuo
+- 👀 I’m interested in 3C seismic data imaging, 3C AVO inversion, and FWI. 
+- 🌱 I am a master's student in geophysics
+- 📫 How to reach me tozhangshuo961203@gmail.com
 
 <!---
 zhangxiaoshuotttt/zhangxiaoshuotttt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
