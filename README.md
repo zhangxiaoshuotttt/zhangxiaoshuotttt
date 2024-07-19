@@ -1,15 +1,7 @@
-- 👋I’m Zhang Shuo（张硕 in Chinese）, I am a master's student in geophysics
+- 👋I’m Zhang Shuo（张硕 in Chinese）, I am a first-year PhD student in geophysics
   
 - 👀 I’m passionate about elastic FWI, 3C seismic imaging, and deep learning in seismology.  
   
-
-- 🌱 I’m currently delving into FWI and RTM techniques for processing OBN field data, focusing on the elastic wave equation.  
-  
-
-- 🌱 I have practical experience in processing 3D4C OBN data imaging, also involves tasks such as analyzing amplitude variations.  
-  
-
-- ⚡ I am currently exploring the use of SEM  and MPI  techniques to enhance the speed and accuracy of problem-solving in my work  
   
 
 <br/>  
