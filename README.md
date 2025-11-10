@@ -1,9 +1,5 @@
 ### Hi there, I'm Zhang Shuo (张硕 in Chinese) 👋
 
-I'm a first-year PhD student in geophysics at KAUST.
-
-
-
 I'm passionate about:
 - Elastic FWI
 - Deep Learning in Seismology
